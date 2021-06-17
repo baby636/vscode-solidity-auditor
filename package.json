@@ -469,7 +469,7 @@
         "tintinweb.vscode-ethover"
     ],
     "dependencies": {
-        "@solidity-parser/parser": "^0.12.2",
+        "@solidity-parser/parser": "^0.13.1",
         "c3-linearization": "^0.3.0",
         "keccak": "^3.0.1",
         "surya": "^0.4.2"
